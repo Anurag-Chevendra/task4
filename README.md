@@ -12,6 +12,8 @@ Observe the behavior of the figure_this_out.exe file by inputting various number
 ## How to go about
 open cmd
 step 1: mkdir tasks
+
 step 2: cd tasks
+
 step 3: git clone https://github.com/Anurag-Chevendra/task1
 
