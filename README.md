@@ -9,3 +9,9 @@ Analyze the figure_this_out.exe file, disassemble the code, and explore the asse
 Investigate the mathematical operations embedded within the code. Identify the mathematical formulas, equations, or algorithms used to manipulate the input value and generate the corresponding output. Pay attention to arithmetic calculations, logical operations, loops, and conditionals that might affect the result.
 ### Input-Output Relationship
 Observe the behavior of the figure_this_out.exe file by inputting various numbers and recording the corresponding output. Document and analyze the patterns or relationships between the input and output values. Determine any mathematical patterns, dependencies, or transformations that exist.
+## How to go about
+open cmd
+step 1: mkdir tasks
+step 2: cd tasks
+step 3: git clone https://github.com/Anurag-Chevendra/task1
+
