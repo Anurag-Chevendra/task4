@@ -11,6 +11,7 @@ Investigate the mathematical operations embedded within the code. Identify the m
 Observe the behavior of the figure_this_out.exe file by inputting various numbers and recording the corresponding output. Document and analyze the patterns or relationships between the input and output values. Determine any mathematical patterns, dependencies, or transformations that exist.
 ## How to go about
 open cmd
+
 step 1: mkdir tasks
 
 step 2: cd tasks
