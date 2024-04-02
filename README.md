@@ -16,5 +16,5 @@ step 1: mkdir tasks
 
 step 2: cd tasks
 
-step 3: git clone https://github.com/Anurag-Chevendra/task1
+step 3: git clone https://github.com/Anurag-Chevendra/task1.git
 
