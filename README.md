@@ -2,7 +2,7 @@
 ## About
 The figure_this_out.exe file is a mysterious executable that generates an output based on a hidden mathematical algorithm. As a team of interns, your task is to reverse engineer the figure_this_out.exe file and uncover the mathematical calculations and operations behind the output generation. Through careful analysis and investigation, your goal is to decipher the hidden algorithm and understand the relationship between the input and output values.
 ## Objectives
-Use a decompiler of your choice and start analysing the pseudo code. Difficiculty is beginner level hence there are no hints provided.
+Use a decompiler of your choice and start analysing the pseudo code. Difficiculty is beginner level hence there are no hints provided. I prefer [IDA](https://hex-rays.com/ida-free/)
 ### Reverse Engineering
 Analyze the figure_this_out.exe file, disassemble the code, and explore the assembly instructions and high-level language representations. By examining the code, identify the relevant functions, calculations, and operations that contribute to the output generation.
 ### Mathematical Analysis
