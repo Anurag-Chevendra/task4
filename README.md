@@ -1,4 +1,4 @@
-# T1 
+# T4
 ## About
 The figure_this_out.exe file is a mysterious executable that generates an output based on a hidden mathematical algorithm. As a team of interns, your task is to reverse engineer the figure_this_out.exe file and uncover the mathematical calculations and operations behind the output generation.
 ## Objectives
